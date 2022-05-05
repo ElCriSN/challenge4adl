@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h5 { 
+    text-align: justify;
+}
+
+footer {
+    text-align: center;
+}
